@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI-powered task management dashboard that uses LLMs to prioritize daily workflows.<br><br>👯 I’m looking to collaborate on open-source React libraries or innovative FinTech projects.<br><br>🤝 I’m looking for help with mastering advanced system design patterns and Kubernetes orchestration.<br><br>🌱 I’m currently learning Three.js to bring 3D interactive elements into my web applications.<br><br>💬 Ask me about React performance optimization, CSS-in-JS vs. Tailwind, or the best coffee spots for coding.<br><br>⚡ Fun fact I once spent three hours debugging a production error only to realize it was a missing semicolon in a legacy config file.
+🔭 I’m currently working on refining my personal portfolio and building a full-stack e-commerce application using the MERN stack.
+
+👯 I’m looking to collaborate on creative web experiments that push the boundaries of standard UI/UX design.
+
+🤝 I’m looking for help with deep-diving into backend architecture—specifically optimizing database queries and API security.
+
+🌱 I’m currently learning the intricacies of TypeScript and exploring how to integrate AI prompts into web workflows.
+
+💬 Ask me about the balance between aesthetic design and functional code, or my favorite VS Code extensions.
+
+⚡ Fun fact I often find my best coding solutions while away from the screen, usually during a long walk or while sketching out UI wireframes by hand.
 
 
 ## 🌐 Socials:

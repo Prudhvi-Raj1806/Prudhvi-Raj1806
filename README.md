@@ -8,6 +8,11 @@ My interests span full-stack development, artificial intelligence, automation, p
 
 ---
 
+<!-- DAILY_WISDOM_START -->
+![Daily Wisdom](./assets/daily-wisdom.svg)
+<!-- DAILY_WISDOM_END -->
+
+
 ## About Me
 
 I build software that solves real problems.

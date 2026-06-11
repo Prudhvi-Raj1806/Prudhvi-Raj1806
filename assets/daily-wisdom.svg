@@ -1,0 +1,22 @@
+<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .border { stroke: #30363d; stroke-width: 1.5; rx: 12; ry: 12; fill: none; }
+      .title { font: 500 16px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #8b949e; }
+      .quote { font: 400 24px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #c9d1d9; font-style: italic; }
+      .footer { font: 400 13px 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" rx="12" ry="12"/>
+  <rect width="100%" height="100%" class="border" />
+
+  <text x="40" y="45" class="title">Daily Wisdom</text>
+
+  <text x="50%" class="quote">
+      <tspan x="50%" y="150.0" text-anchor="middle">"Action precedes clarity."</tspan>
+  </text>
+
+  <text x="40" y="270" class="footer">Raj • Updated Daily</text>
+</svg>

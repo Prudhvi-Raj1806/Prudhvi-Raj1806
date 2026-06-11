@@ -1,4 +1,4 @@
-# Raj Prudhvi
+# Prudhvi Raj
 
 ### Building AI-powered products, automation systems, and modern web applications.
 

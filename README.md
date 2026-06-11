@@ -1,3 +1,6 @@
+<!-- DAILY_WISDOM_START -->
+![Daily Wisdom](./assets/daily-wisdom.svg)
+<!-- DAILY_WISDOM_END -->
 # Prudhvi Raj
 
 ### Building AI-powered products, automation systems, and modern web applications.
@@ -7,11 +10,6 @@ Developer, product builder, and entrepreneur focused on turning ideas into scala
 My interests span full-stack development, artificial intelligence, automation, product design, and startup systems. I enjoy working across the entire product lifecycle, from concept and design to development, deployment, and growth.
 
 ---
-
-<!-- DAILY_WISDOM_START -->
-![Daily Wisdom](./assets/daily-wisdom.svg)
-<!-- DAILY_WISDOM_END -->
-
 
 ## About Me
 

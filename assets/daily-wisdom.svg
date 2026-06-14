@@ -15,7 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="150.0" text-anchor="middle">"Your environment dictates your performance."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"The way to get started is to quit talking</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">and begin doing."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

@@ -15,8 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"You can't cross the sea merely by standing</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">and staring at the water."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"Do not be embarrassed by your failures,</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">learn from them and start again."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

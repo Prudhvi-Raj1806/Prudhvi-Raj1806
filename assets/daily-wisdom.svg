@@ -15,8 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"Do not be embarrassed by your failures,</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">learn from them and start again."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"Don't let yesterday take up too much of</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">today."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

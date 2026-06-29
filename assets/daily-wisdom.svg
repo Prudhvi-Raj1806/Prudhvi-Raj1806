@@ -15,7 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="150.0" text-anchor="middle">"Stay hungry, stay foolish."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"A person who is quietly confident makes the</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">best leader."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

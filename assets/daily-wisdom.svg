@@ -15,8 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"If you are not embarrassed by your code a</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">year from now, you aren't learning."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"Fall in love with the problem, not the</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">solution."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

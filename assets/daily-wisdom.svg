@@ -15,8 +15,7 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"Fall in love with the problem, not the</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">solution."</tspan>
+      <tspan x="50%" y="150.0" text-anchor="middle">"Believe you can and you're halfway there."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

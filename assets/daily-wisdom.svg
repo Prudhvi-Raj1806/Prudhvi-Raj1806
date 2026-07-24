@@ -15,8 +15,7 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"Never interrupt your enemy when he is making</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">a mistake."</tspan>
+      <tspan x="50%" y="150.0" text-anchor="middle">"There is no substitute for hard work."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

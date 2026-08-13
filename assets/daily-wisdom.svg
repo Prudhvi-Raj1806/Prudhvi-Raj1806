@@ -15,8 +15,7 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"If you want to be a writer, write. If you</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">want to be a founder, build."</tspan>
+      <tspan x="50%" y="150.0" text-anchor="middle">"Sometimes you win, sometimes you learn."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

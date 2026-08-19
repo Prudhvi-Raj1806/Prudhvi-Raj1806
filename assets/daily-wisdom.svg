@@ -15,7 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="150.0" text-anchor="middle">"Don't optimize for the short term."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"If it's a priority, you'll find a way. If it</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">isn't, you'll find an excuse."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

@@ -15,8 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"Never let success get to your head, and</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">never let failure get to your heart."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"Innovation distinguishes between a leader</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">and a follower."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

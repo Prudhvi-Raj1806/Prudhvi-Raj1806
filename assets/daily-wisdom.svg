@@ -15,8 +15,7 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"Don't be intimidated by what you don't know.</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">That can be your greatest strength."</tspan>
+      <tspan x="50%" y="150.0" text-anchor="middle">"Code wins arguments."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

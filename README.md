@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Header](./assets/header-banner.svg)
+![Header](./assets/header-banner.svg?v=20260906a)
 
 </div>
 
@@ -12,7 +12,7 @@ I'm a developer and product builder who likes turning half-formed ideas into sof
 
 Most of what I do sits somewhere between full-stack development, AI, and automation, and I like staying involved from the first sketch of an idea through to shipping it.
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## About Me
 
@@ -28,7 +28,7 @@ I build software that solves real problems, not software for its own sake. Right
 
 The work I'm proudest of usually sits where engineering, design, and business overlap.
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## Current Projects
 
@@ -68,17 +68,17 @@ My portfolio site, built to actually load fast and show the work instead of just
 
 ### Kaisei Studio (Founder & CEO)
 
-<img src="./assets/kaisei-logo.svg" width="260" />
+<img src="./assets/kaisei-logo.svg?v=20260906a" width="260" />
 
 Kaisei Studio is the company I run outside of these projects. The brand essence is the short version of how I try to work everywhere: build with precision, manage with care, evolve everything.
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## Tech Stack
 
 <div align="center">
 
-![Tech Stack](./assets/tech-marquee.svg)
+![Tech Stack](./assets/tech-marquee.svg?v=20260906a)
 
 </div>
 
@@ -120,7 +120,7 @@ Kaisei Studio is the company I run outside of these projects. The brand essence 
 * Arduino
 * Home Assistant
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## What I Bring
 
@@ -133,7 +133,7 @@ Kaisei Studio is the company I run outside of these projects. The brand essence 
 
 I'd rather build the system underneath a feature than just the feature itself.
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## Currently Exploring
 
@@ -143,7 +143,7 @@ I'd rather build the system underneath a feature than just the feature itself.
 * Intelligent automation systems
 * SaaS growth strategies
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## Open To
 
@@ -153,7 +153,7 @@ I'd rather build the system underneath a feature than just the feature itself.
 * Open Source Contributions
 * Technical Partnerships
 
-<img src="./assets/divider-line.svg" width="100%" />
+<img src="./assets/divider-line.svg?v=20260906a" width="100%" />
 
 ## Connect
 
@@ -168,6 +168,6 @@ I'd rather build the system underneath a feature than just the feature itself.
 
 <div align="center">
 
-![Footer](./assets/footer-wave.svg)
+![Footer](./assets/footer-wave.svg?v=20260906a)
 
 </div>

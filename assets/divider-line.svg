@@ -1,0 +1,11 @@
+<svg width="900" height="6" viewBox="0 0 900 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B89A55" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4BD85" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#B89A55" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="6" rx="3" fill="url(#lineGrad)"/>
+</svg>

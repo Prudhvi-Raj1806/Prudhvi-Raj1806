@@ -1,21 +1,22 @@
 <!-- DAILY_WISDOM_START -->
 ![Daily Wisdom](./assets/daily-wisdom.svg)
 <!-- DAILY_WISDOM_END -->
-# Prudhvi Raj
 
-### Building AI-powered products, automation systems, and modern web applications.
+<div align="center">
 
-Developer, product builder, and entrepreneur focused on turning ideas into scalable software.
+![Header](./assets/header-banner.svg)
 
-My interests span full-stack development, artificial intelligence, automation, product design, and startup systems. I enjoy working across the entire product lifecycle, from concept and design to development, deployment, and growth.
+</div>
 
----
+I'm a developer and product builder who likes turning half-formed ideas into software people actually use.
+
+Most of what I do sits somewhere between full-stack development, AI, and automation, and I like staying involved from the first sketch of an idea through to shipping it.
+
+<img src="./assets/divider-line.svg" width="100%" />
 
 ## About Me
 
-I build software that solves real problems.
-
-Currently focused on:
+I build software that solves real problems, not software for its own sake. Right now that means:
 
 * Full-Stack Web Development
 * Artificial Intelligence
@@ -25,15 +26,15 @@ Currently focused on:
 * Product Design & UX
 * Startup Building
 
-I believe great products sit at the intersection of engineering, design, and business.
+The work I'm proudest of usually sits where engineering, design, and business overlap.
 
----
+<img src="./assets/divider-line.svg" width="100%" />
 
 ## Current Projects
 
 ### CreatorOS (In Progress)
 
-An operating system for creators designed to centralize content management, publishing, analytics, automation, and growth workflows.
+CreatorOS pulls content management, publishing, analytics, automation, and growth tools into one place instead of ten different tabs.
 
 **Key Areas**
 
@@ -47,9 +48,7 @@ An operating system for creators designed to centralize content management, publ
 
 ### Project JARVIS (Phase 1 Complete)
 
-A personal AI assistant ecosystem focused on automation, local AI infrastructure, and workflow management.
-
-Built around the vision of creating a centralized digital operator capable of assisting with productivity, information management, and smart automation.
+A personal AI assistant built around local infrastructure instead of someone else's cloud. The goal is one operator that can help manage the day-to-day: tasks, information, and the small automations that used to eat my time.
 
 **Key Areas**
 
@@ -63,13 +62,25 @@ Built around the vision of creating a centralized digital operator capable of as
 
 ### Personal Portfolio
 
-A performance-focused portfolio showcasing projects, technical capabilities, and product-building experience.
-
-Designed to demonstrate both engineering ability and design thinking while serving as the foundation of my professional online presence.
+My portfolio site, built to actually load fast and show the work instead of just describing it. It's where engineering and design decisions both have to hold up, since it's usually the first thing people see.
 
 ---
 
+### Kaisei Studio (Founder & CEO)
+
+<img src="./assets/kaisei-logo.svg" width="260" />
+
+Kaisei Studio is the company I run outside of these projects. The brand essence is the short version of how I try to work everywhere: build with precision, manage with care, evolve everything.
+
+<img src="./assets/divider-line.svg" width="100%" />
+
 ## Tech Stack
+
+<div align="center">
+
+![Tech Stack](./assets/tech-marquee.svg)
+
+</div>
 
 ### Languages
 
@@ -109,7 +120,7 @@ Designed to demonstrate both engineering ability and design thinking while servi
 * Arduino
 * Home Assistant
 
----
+<img src="./assets/divider-line.svg" width="100%" />
 
 ## What I Bring
 
@@ -120,9 +131,9 @@ Designed to demonstrate both engineering ability and design thinking while servi
 * Entrepreneurial mindset
 * Interest in both technology and business
 
-I enjoy building systems, not just features.
+I'd rather build the system underneath a feature than just the feature itself.
 
----
+<img src="./assets/divider-line.svg" width="100%" />
 
 ## Currently Exploring
 
@@ -132,7 +143,7 @@ I enjoy building systems, not just features.
 * Intelligent automation systems
 * SaaS growth strategies
 
----
+<img src="./assets/divider-line.svg" width="100%" />
 
 ## Open To
 
@@ -142,16 +153,21 @@ I enjoy building systems, not just features.
 * Open Source Contributions
 * Technical Partnerships
 
----
+<img src="./assets/divider-line.svg" width="100%" />
 
 ## Connect
 
-**Instagram**
-https://instagram.com/theraj.gvs
+<p align="center">
+  <a href="https://instagram.com/theraj.gvs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/prudhvi-raj-770420334">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-**LinkedIn**
-https://linkedin.com/in/prudhvi-raj-770420334
+<div align="center">
 
----
+![Footer](./assets/footer-wave.svg)
 
-*"Build useful things. Learn relentlessly. Repeat."*
+</div>

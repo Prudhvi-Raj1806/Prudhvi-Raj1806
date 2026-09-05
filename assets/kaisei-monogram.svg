@@ -1,0 +1,8 @@
+<svg width="190" height="192" viewBox="0 0 190 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 70.5V3H70L3 70.5Z" fill="#B89A55"/>
+<path d="M182.5 3H118L3.5 120V184.5L182.5 3Z" fill="#B89A55"/>
+<path d="M76.5 136.5L106 106L182 184.5H124.5L76.5 136.5Z" fill="#B89A55"/>
+<path d="M3 70.5V3H70L3 70.5Z" stroke="#B89A55" stroke-width="6"/>
+<path d="M182.5 3H118L3.5 120V184.5L182.5 3Z" stroke="#B89A55" stroke-width="6"/>
+<path d="M76.5 136.5L106 106L182 184.5H124.5L76.5 136.5Z" stroke="#B89A55" stroke-width="6"/>
+</svg>

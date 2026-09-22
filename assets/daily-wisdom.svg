@@ -15,8 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"An entrepreneur is someone who jumps off a</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">cliff and builds a plane on the way down."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"Strive not to be a success, but rather to be</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">of value."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

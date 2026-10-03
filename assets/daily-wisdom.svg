@@ -15,8 +15,7 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"If you don't build your dream, someone else</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">will hire you to help them build theirs."</tspan>
+      <tspan x="50%" y="150.0" text-anchor="middle">"Solve the hard problem first."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

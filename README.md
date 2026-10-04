@@ -169,7 +169,7 @@ The next product is already in progress.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prudhvi-Raj1806&bg_color=0d1117&color=c9d1d9&line=D4BD85&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://ghchart.rshah.org/D4BD85/Prudhvi-Raj1806" alt="GitHub contribution activity chart" width="100%" />
 </div>
 
 ## Connect

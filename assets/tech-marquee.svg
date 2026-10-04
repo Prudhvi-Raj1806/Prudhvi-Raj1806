@@ -67,7 +67,8 @@
 
   <g mask="url(#edgeFade)">
     <g>
-      <animateTransform attributeName="transform" type="translate" from="0,0" to="-870,0" dur="18s" repeatCount="indefinite"/>
+      <!-- The first pass runs from x=20 to x=1036, so the repeat must be offset by 1026px. -->
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1026,0" dur="18s" repeatCount="indefinite"/>
       <g font-family="'Segoe UI', Verdana, sans-serif" font-size="14" font-weight="600">
 
         <!-- first pass -->
@@ -112,26 +113,41 @@
           <text x="40" y="24" fill="#D4BD85">Firebase</text>
         </g>
 
-        <!-- second pass, seamless loop (offset by total width of first pass ~ 870) -->
-        <g transform="translate(890,21)">
+        <!-- second pass, seamless loop with the same spacing as the first pass -->
+        <g transform="translate(1046,21)">
           <rect width="96" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.45"/>
           <use href="#ic-react" x="6" y="5" width="28" height="28"/>
           <text x="40" y="24" fill="#D4BD85">React</text>
         </g>
-        <g transform="translate(1000,21)">
+        <g transform="translate(1156,21)">
           <rect width="104" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.35"/>
           <use href="#ic-next" x="6" y="5" width="28" height="28"/>
           <text x="40" y="24" fill="#D4BD85">Next.js</text>
         </g>
-        <g transform="translate(1118,21)">
+        <g transform="translate(1274,21)">
           <rect width="128" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.45"/>
           <use href="#ic-ts" x="6" y="5" width="28" height="28"/>
           <text x="40" y="24" fill="#D4BD85">TypeScript</text>
         </g>
-        <g transform="translate(1260,21)">
+        <g transform="translate(1416,21)">
           <rect width="112" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.45"/>
           <use href="#ic-python" x="6" y="5" width="28" height="28"/>
           <text x="40" y="24" fill="#D4BD85">Python</text>
+        </g>
+        <g transform="translate(1542,21)">
+          <rect width="112" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.45"/>
+          <use href="#ic-node" x="6" y="5" width="28" height="28"/>
+          <text x="40" y="24" fill="#D4BD85">Node.js</text>
+        </g>
+        <g transform="translate(1668,21)">
+          <rect width="122" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.45"/>
+          <use href="#ic-tailwind" x="6" y="5" width="28" height="28"/>
+          <text x="40" y="24" fill="#D4BD85">Tailwind</text>
+        </g>
+        <g transform="translate(1804,21)">
+          <rect width="128" height="38" rx="19" fill="url(#pillGrad)" stroke="#B89A55" stroke-opacity="0.45"/>
+          <use href="#ic-mongo" x="6" y="5" width="28" height="28"/>
+          <text x="40" y="24" fill="#D4BD85">MongoDB</text>
         </g>
       </g>
     </g>

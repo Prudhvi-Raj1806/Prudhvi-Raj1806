@@ -20,7 +20,7 @@
 <br />
 
 > **Founder · AI product engineer · interface designer**<br />
-> Building CreatorOS, Project JARVIS, and digital products that feel as good as they function.
+> Building focused digital products, premium interfaces, and useful systems that feel as good as they function.
 
 </div>
 
@@ -34,7 +34,7 @@ I care about the part most projects miss: turning a technically capable system i
 
 ```text
 focus = ["AI products", "agentic workflows", "full-stack systems", "quiet-luxury interfaces"]
-building = ["CreatorOS", "Project JARVIS", "Kaisei"]
+building = ["Spotameet", "Skill2Role", "LMS Sample", "Expanovate", "TCI", "Tapless", "Kaisei"]
 principle = "Make the complex feel inevitable."
 ```
 
@@ -50,72 +50,84 @@ A curated cut of the repositories that best represent how I think and build.
 <tr>
 <td width="50%" valign="top">
 
-### [Project JARVIS](https://github.com/Prudhvi-Raj1806/Agent-_Project)
+### [Spotameet](https://github.com/Prudhvi-Raj1806/spotameet)
 
-An experimental AI-agent interface for exploring agentic workflows and interactive product experiences.
+A location-aware social product experiment exploring meeting and discovery workflows.
+
+`React` `TypeScript` `Product systems`
+
+</td>
+<td width="50%" valign="top">
+
+### [Skill2Role](https://github.com/Prudhvi-Raj1806/Skill2learn-UI)
+
+A learning-product interface focused on course discovery, learning flows, and modern educational UX.
+
+`React` `TypeScript` `Education UX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [LMS Sample](https://github.com/Prudhvi-Raj1806/LMS-Sample)
+
+A learning-management-system interface prototype with interactive learning and dashboard experiences.
 
 `Next.js` `React` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### [FinStreak](https://github.com/Prudhvi-Raj1806/finstreak)
+### [Expanovate](https://github.com/Prudhvi-Raj1806/expanovate)
 
-A financial planning and tracking product experiment designed to make cash flow and money decisions easier to understand.
+A product showcase experiment built around expansion, presentation, and a polished web experience.
 
-`React` `TypeScript` `Vite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Project Luxe](https://github.com/Prudhvi-Raj1806/Project-Luxe)
-
-An editorial e-commerce concept that replaces conventional scrolling with a boutique-style discovery ritual.
-
-`Next.js` `UI systems` `E-commerce`
-
-</td>
-<td width="50%" valign="top">
-
-### [Project Canvas](https://github.com/Prudhvi-Raj1806/Project-Canvas)
-
-An interactive portfolio grid driven by cursor movement, scroll depth, and dynamic color transitions.
-
-`HTML` `CSS` `JavaScript`
+`React` `TypeScript` `Product design`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Project Terminal](https://github.com/Prudhvi-Raj1806/Project-Terminal)
+### [TCI](https://github.com/Prudhvi-Raj1806/TCI)
 
-A developer-centric portfolio interface with file navigation, syntax-oriented presentation, and a functional command-line model.
+A Next.js application prototype for a TCI-branded digital experience.
 
-`HTML` `CSS` `JavaScript`
+`Next.js` `React` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### [CS Forensics Toolkit](https://github.com/Prudhvi-Raj1806/CS-Forensics-toolkit)
+### [Tapless](https://github.com/Prudhvi-Raj1806/tapless)
 
-A practical collection of computer-science and digital-forensics utilities and experiments.
+A digital networking platform with public profiles, QR sharing, connections, events, analytics, and NFC tag writing.
 
-`Python` `Forensics` `Tooling`
+`Next.js` `MongoDB` `PWA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Kaisei](https://github.com/Prudhvi-Raj1806/Kaisei)
+
+The design and development workspace for Kaisei, Raj's premium digital design and development studio.
+
+`React` `JavaScript` `Design systems`
+
+</td>
+<td width="50%" valign="top">
+
+### More coming soon
+
+The next product is already in progress.
+
+`Product` `Design` `Engineering`
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><strong>More experiments</strong></summary>
-<br />
-
-[Project Nexus](https://github.com/Prudhvi-Raj1806/Project-Nexus) · [Project Ghost](https://github.com/Prudhvi-Raj1806/Project-Ghost) · [LMS Sample](https://github.com/Prudhvi-Raj1806/LMS-Sample) · [Daily Wisdom](https://github.com/Prudhvi-Raj1806/daily-wisdom) · [IV Monitor](https://github.com/Prudhvi-Raj1806/IV_Monitor)
-
-</details>
 
 ## Stack
 

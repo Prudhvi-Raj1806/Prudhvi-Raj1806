@@ -15,9 +15,7 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="114.0" text-anchor="middle">"You measure the size of the accomplishment</tspan>
-      <tspan x="50%" y="150.0" text-anchor="middle">by the obstacles you had to overcome to reach</tspan>
-      <tspan x="50%" y="186.0" text-anchor="middle">your goals."</tspan>
+      <tspan x="50%" y="150.0" text-anchor="middle">"Do not fear mistakes. There are none."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>

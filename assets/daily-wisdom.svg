@@ -15,8 +15,8 @@
   <text x="40" y="45" class="title">Daily Wisdom</text>
 
   <text x="50%" class="quote">
-      <tspan x="50%" y="132.0" text-anchor="middle">"Your life is your message to the world. Make</tspan>
-      <tspan x="50%" y="168.0" text-anchor="middle">sure it's inspiring."</tspan>
+      <tspan x="50%" y="132.0" text-anchor="middle">"Design is not just what it looks like and</tspan>
+      <tspan x="50%" y="168.0" text-anchor="middle">feels like. Design is how it works."</tspan>
   </text>
 
   <text x="40" y="270" class="footer">Raj • Updated Daily</text>
